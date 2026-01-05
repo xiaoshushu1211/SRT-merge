@@ -14,11 +14,11 @@
 ## 使用方式
 
 1. 安装 Python 3（系统自带 Tkinter 的常见发行版一般无需额外安装）
-2. 将脚本保存为 `merge_srt.py`
+2. 将脚本保存为 `merge.py`，或者直接下载merge.py
 3. 运行：
 
 ```bash
-python merge_srt.py
+python merge.py
 ```
 
 4. 按提示分别选择：
